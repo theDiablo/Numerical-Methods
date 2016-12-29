@@ -15,7 +15,7 @@ s.m- Test File.
 
 6) SOR.m- Implementation of SOR method with pre-conditioner.
 
-7) ConGrad.m- Implementation of Conjugate gradient method with pre-conditioner.
+7) PCG.m- Implementation of Conjugate gradient method with pre-conditioner.
 
 8) NewtonDD.m- Newton divided difference method to obtain the interpolating value.
 
